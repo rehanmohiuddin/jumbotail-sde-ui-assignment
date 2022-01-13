@@ -1,0 +1,19 @@
+.input-icon {
+  position: absolute;
+  align-items: center;
+  left: 0.9rem;
+  top: calc(
+    50% - 0.8em
+  ); /* Keep icon in center of input, regardless of the input height */
+}
+input {
+  padding-left: 2.4rem !important;
+  outline: none;
+}
+.input-wrapper {
+  position: relative;
+}
+.vl {
+  border-left: 3px solid #6ea1f0;
+  height: 3rem;
+}

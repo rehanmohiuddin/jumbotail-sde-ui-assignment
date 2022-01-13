@@ -1,0 +1,4 @@
+export const GET_BOOKS = "GET_BOOKS";
+export const GET_BOOKS_SUCCESS = "GET_BOOKS_SUCCESS";
+export const GET_BOOK_DETAILS = "GET_BOOK_DETAILS";
+export const SEARCH_BOOK = "SEARCH_BOOK";
